@@ -1,0 +1,19 @@
+#Sun Sep 03 10:39:02 CST 2017
+renamed.5=classes.dex
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes6.dex
+renamed.1=classes5.dex
+renamed.0=classes4.dex
+base.5=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0e7ca1c5d226fbb2e29adfa3857774f737cda83d
+base.4=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_89d3141895404754634e87c4ecb69b09ae29066c
+base.3=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a7ffb6a02e379e9adc070cfc444bb8e82c186507
+base.2=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_feb27cc5cffc5ab3fd1ac6599fcb2e1b0afc78af
+base.1=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_0f8d9e7001fd988d78838f3caec6c28b2d15e132
+base.0=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha4_f959bea1faab3ca93dc19ab917dc1a6d065ceab1
+file.5=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0e7ca1c5d226fbb2e29adfa3857774f737cda83d\\classes.dex
+file.4=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_89d3141895404754634e87c4ecb69b09ae29066c\\classes.dex
+file.3=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a7ffb6a02e379e9adc070cfc444bb8e82c186507\\classes.dex
+file.2=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_feb27cc5cffc5ab3fd1ac6599fcb2e1b0afc78af\\classes.dex
+file.1=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_0f8d9e7001fd988d78838f3caec6c28b2d15e132\\classes.dex
+file.0=C\:\\Users\\Mac\\Desktop\\BabyBeacon-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha4_f959bea1faab3ca93dc19ab917dc1a6d065ceab1\\classes.dex

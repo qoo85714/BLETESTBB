@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha4\constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha4_f959bea1faab3ca93dc19ab917dc1a6d065ceab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\.android\build-cache\36c89fb0fb6f84a86bd6f1877489834a9bae3cd8\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_0f8d9e7001fd988d78838f3caec6c28b2d15e132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\.android\build-cache\283c29ddb2ffa96bb7bd7d29770dc6aad9a7e011\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\classes_0e7ca1c5d226fbb2e29adfa3857774f737cda83d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\.android\build-cache\36c89fb0fb6f84a86bd6f1877489834a9bae3cd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\classes_a7ffb6a02e379e9adc070cfc444bb8e82c186507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_feb27cc5cffc5ab3fd1ac6599fcb2e1b0afc78af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mac\.android\build-cache\8f200596aa33ca5ca5c7e84e9f1894703081973c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Mac\Desktop\BabyBeacon-master\app\build\intermediates\pre-dexed\debug\classes_89d3141895404754634e87c4ecb69b09ae29066c.jar" />
+    </item>
+
+</items>
